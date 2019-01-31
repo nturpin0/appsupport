@@ -8,3 +8,7 @@ You can skip to editing your project quickly
 Backups each time before it opens Shortcut for editing. So you can skip back to an earlier version anytime.
 
 ![](IMG_1020.PNG)
+
+
+#### Other Shortcuts by me
+Other Shortcuts by me can be found on [RoutineHub](https://routinehub.co/user/entee)

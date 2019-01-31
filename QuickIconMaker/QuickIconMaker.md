@@ -12,3 +12,6 @@ Search by name, or choose from an image.
 Eg Is used in Home Launcher which puts contact/shortcut/links in one Home Screen Launcher. https://routinehub.co/shortcut/1030
 
 Color Selector by HeyItzSpencer https://routinehub.co/shortcut/828
+
+#### Other Shortcuts by me
+Other Shortcuts by me can be found on [RoutineHub](https://routinehub.co/user/entee)

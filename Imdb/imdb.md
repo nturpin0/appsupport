@@ -10,3 +10,7 @@ Started from an unknown source IMDB shortcut, but highly modified.
 Shows all ratings with bar graph.
 
 ![](Shining.png)
+
+
+#### Other Shortcuts by me
+Other Shortcuts by me can be found on [RoutineHub](https://routinehub.co/user/entee)
