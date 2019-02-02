@@ -12,7 +12,7 @@ Easily create icons by Searching by name, or choose from an image.
 
 ## Making an icon
 
-### Menu
+
 ![Menu](menu.png)
 At the top of the menu there is a preview of the current settings for the icon. When first launched it shows the default home icon. Select the preview at any time to see a large view of the icon.
 
