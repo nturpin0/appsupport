@@ -3,7 +3,7 @@
 
 The Shortcut shows Reminders from all of your lists, if you have a lot of lists that arent everyday tasks you can set filters in the Find Reminders at the top of the Shortcut.
 
-![](Screenshot.png)
+![image](Screenshot.png)
 
 
 #### Made with
