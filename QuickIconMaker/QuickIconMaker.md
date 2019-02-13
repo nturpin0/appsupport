@@ -13,24 +13,29 @@ Easily create icons by Searching by name, or choose from an image.
 ## Making an icon
 
 
-![Menu](menu.png)
+![Menu](menu.jpg)
+
 At the top of the menu there is a preview of the current settings for the icon. When first launched it shows the default home icon. Select the preview at any time to see a large view of the icon.
 
-#### Browse
+### Browse
 Quick preview of available icons. 
+
 ![Browse](browse.png)
 
-#### Search
+### Search
 Search for icons by name.
-![search](search.png)
 
-#### Colour and Background
-Quick list of simple colours, choose from lots of colour shades, or enter a hex value for colour.
-![colour](colour.png)
+![search](search.jpg)
 
-#### Finish
+### Colour and Background
+Choose from lots of colour shades, or enter a hex value for colour.
+
+![colour](colour.jpg)
+
+### Finish
 Will first present you with a series of quick options, or you can select custom for your own settings.
-![export](export.png)
+
+![export](Export2.png)
 
 
 ## Running from another Shortcut
