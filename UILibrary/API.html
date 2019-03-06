@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <meta charset="utf-8">
+    <title>Title</title>
+
+<style>Text</style>
+
+<style>
+body {  
+      background: Black ! important
+}
+</style>
+    <script src="document.min.js" userjs="user.js" icon="favicon.ico" id="DOC" onerror="var l=document.createElement('link'),s=document.createElement('script');l.rel='stylesheet';l.href='https://github.com/nturpin0/OutputKit/raw/master/theme.min-3.css';l.id='bootstrap.css';l.auto='1';document.head.insertBefore(l,document.getElementById('DOC'));s.src='http://aplib.github.io/document.min.js';document.head.appendChild(s);"></script>
+</head>
+<body>
+    
+
+
+<!--content-panel
+
+
+## ShowCard
+Card has a blue title block, where you can put an icon, and a title. Markdown wont work inside the card. Use the <code> ```<br>``` </code> tag to break up text.
+
+- Process: ShowCard
+- Background: Background color
+- Icon: (optional) Name of the icon to be shown. Icons are from font-awesome, and require the font-awesome name eg book-open, home.
+- Title: Title to be shown on the card, and at the top of the QuickView window.
+- Text: TExt to be shown on card.
+- Image: (optional) Base64EncodedImage
+
+## Show Result
+- Process: Show Result
+- Title: Title to be shown at top of the quick view window
+- Background: Background color, you can use web color names, or hex values
+- TextColor: Color of text, web color names.
+- Text: Text to be shown, this can include Markdown.
+
+## ShowTable
+- Process: ShowTable
+- Title: Title to be shown on the QuickView window.
+- Text: Text containing the HTML or Markdown to be displayed
+- Type: HTML/Markdown/CSV
+
+## Choose Shortcut
+- Process: Choose Shortcut
+- Title: Text to be shown above the choose box.
+
+## ColorPicker
+This was originally done, by @heyitzspencer
+- Process: ColorPicker
+- Choose colors, or enter a hex value.
+
+## PercentageBars
+- Process: PercentageBars
+- Title: Title to be shown above the list
+- Data: Data to be shown
+
+Data should be in the following format 
+
+Subtitle, number
+
+eg 
+Q1 Sales,67
+
+## MenuList
+MenuList
+Send lines of text to show a list with images, or just use it for a left justified menu with no images.
+
+- Process: MenuList
+- List: list to be shown, 
+- Title: Title to be shown at the top of the list displayed.
+- Type: (if you add this extra parameter with the value IconName you can just use the name of font awesome icons to display an icon)
+
+Lists should be sent in the following format, images are optional if you just want left justified menus.
+- Title, subtitle, Base64EncodedImage
+
+When using IconName as type the format is 
+-Title,subtitle,icon-name
+
+[List of icons names that can be used](https://gist.github.com/nturpin0/32e74627f47da91dd9aa979506d6d8f7)
+
+If not using subtitles, commas should be kept in the image
+- Title, , Base64EncodedImage
+
+## Show List
+Showing a list in quickview.
+
+- Process: ShowList
+- Text: Markdown list to be shown
+- Title: Title to be shown
+- Background: Background Color
+
+## Beep
+The sosumi beep, not sure about using system sounds, access might not always be there. Maybe
+- Process: Beep
+
+## Timeline
+- Process: Timeline
+- Text: data in format below
+- Title: title of timeline/viewer title
+- Background: Background Color
+- TextColor: TextColor
+
+Text should be in format, note does not sort, so will need to be ordered before sending.
+Title, Date, Text to show
+
+## Highlight
+Highlights a particular word in displayed text.
+
+- Process: Highlight
+- Text: Text to highlight and show
+- Search: Search term
+- HighlightColor: color of highlighted text
+- Title : 
+- Background:
+- TextColor: 
+
+
+## SpeedRead
+A speed reader.
+
+- Process: SpeedRead
+- Text: Text to Read
+- Speed: (defaults to 250)
+- Title: Title for quick view window
+
+
+-->
+
+<!--footer-panel
+
+-->
+
+<noscript><div class="alert alert-warning">This Website requires your browser to be JavaScript enabled.</div></noscript>
+</body>
+</html>
