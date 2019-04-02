@@ -12,17 +12,17 @@ It works with Calendar, Contacts, Notes, and Reminders, or you can use functions
 
 ## Select/Manage tags
 Select tags to search, or to create a new item, quickly see how many matches there are for each tag and type, or manage your tags.
-￼![/img/one.png]()
+￼![img/one.png]()
 
 ## Search results
 Detailed previews where you can jump to an item you select (Reminders will only preview) 
 Match counts and visual indicators.
 Search looks for incomplete reminders/future calendar dates, all notes and all contacts.
-￼￼![/img/two.png]()
+￼￼![img/two.png]()
 
 ## Create new item with selected tag(s)
 You dont need to create tagged items from here, add them at any time to an item.
-￼![/img/three.png]()
+￼![img/three.png]()
 
 
 ## Use in your own Shortcuts
