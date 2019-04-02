@@ -12,7 +12,7 @@ It works with Calendar, Contacts, Notes, and Reminders, or you can use functions
 
 ## Select/Manage tags
 Select tags to search, or to create a new item, quickly see how many matches there are for each tag and type, or manage your tags.
-￼![img/one.png]()
+￼![](/img/one.png
 
 ## Search results
 Detailed previews where you can jump to an item you select (Reminders will only preview) 
