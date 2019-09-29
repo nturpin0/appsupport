@@ -1,4 +1,4 @@
-**PERSONAL AUTOMATIONS**
+## PERSONAL AUTOMATIONS
 
 ||Confirmation/unlock Required. No option to turn off Ask before Running.|Work without authorisation but some actions require unlocking, Ask before running must be turned off.||
 |:-|:-|:-|:-|
@@ -19,14 +19,14 @@
 |NFC||\*|iPhone XS, XS Max and XR Models only|
 |Open App|\*||Your phone would have to be unlocked to open the app anyway.|
 
-**Examples of Actions that require unlocking for DND/Low Power/Carplay/NFC/Alarm etc**
+### Examples of Actions that require unlocking for DND/Low Power/Carplay/NFC/Alarm etc**
 
 Require unlocking - Run App, Ask for Input, Delete actions, some third party actions
 
 Dont require unlocking - If, Brightness, Home Control, Messages, Create Reminder, Play Music
 
 
-**HOME AUTOMATIONS**
+## HOME AUTOMATIONS
 
 These run automatically, no confirmation you can add some shortcut commands to them, but its a very limited set.
 
